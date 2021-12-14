@@ -27,4 +27,4 @@ new line Valentin fixed conflict
 
 Conflit de version
 
-dernier commit et merge
+Magic conflict
