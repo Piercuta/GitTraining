@@ -31,7 +31,7 @@ namespace EFCcoreMySQL
 
         static void Main(string[] args)
         {
-            Console.WriteLine("EF Core");
+            Console.WriteLine("EF Core...");
 
             disquaireContext ctx = new disquaireContext();
 
