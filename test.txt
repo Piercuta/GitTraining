@@ -5,7 +5,7 @@ Your lack of faith is disturbing
 
 Salut c'est Low, comment ça va? Non pas trop !
 
-
+new line 8 (pc update)
 
 Je suis sur ma branche à moi
 
@@ -26,4 +26,3 @@ nouvelle branche
 new line Valentin fixed conflict
 
 Conflit de version
-
