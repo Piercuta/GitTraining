@@ -25,3 +25,4 @@ nouvelle branche
 
 new line Valentin fixed conflict
 
+modif pierre generating conflict
