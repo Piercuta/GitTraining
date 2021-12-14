@@ -26,5 +26,3 @@ nouvelle branche
 new line Valentin fixed conflict
 
 Conflit de version
-
-Magic conflict
