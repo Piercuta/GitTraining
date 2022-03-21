@@ -19,4 +19,4 @@ Conflit de version
 Magic conflict
 
 sentence added
-2nd sentence addeddfgdfghd
+2nd sentence
