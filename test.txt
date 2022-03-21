@@ -20,3 +20,5 @@ Magic conflict
 
 sentence added
 2nd sentence
+
+nouvelle ligne
